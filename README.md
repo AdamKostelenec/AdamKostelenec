@@ -37,4 +37,8 @@
 
 💬 **Máš nápad, projekt nebo příležitost ke spolupráci?** Napiš mi – rád se zapojím!
 
+### 🐍 My Contribution Snake:
+![snake gif](https://github.com/AdamKostelenec/AdamKostelenec/blob/output/github-contribution-grid-snake.svg)
+
+
 
