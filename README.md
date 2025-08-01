@@ -37,6 +37,6 @@
 
 💬 **Máš nápad, projekt nebo příležitost ke spolupráci?** Napiš mi – rád se zapojím!
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKostelenec&show_icons=true&theme=default)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKostelenec&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamKostelenec&layout=compact)](https://github.com/AdamKostelenec)
 
